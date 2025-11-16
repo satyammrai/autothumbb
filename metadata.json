@@ -1,0 +1,5 @@
+{
+  "name": "Viral Thumbnail Generator",
+  "description": "Upload an image and use Gemini to transform it into three variations of an EXTREME high-CTR, ultra-viral YouTube thumbnail with professional aesthetics.",
+  "requestFramePermissions": []
+}
